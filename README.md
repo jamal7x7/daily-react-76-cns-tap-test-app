@@ -1,6 +1,6 @@
 ## Daily-react-76-cns-tap-test-app
 
-> Challenge: create a Book Club e-reader app.
+> Challenge: create a CNS (Central Nervous System) Tap Test app.
 
 Work in progress: https://github.com/daily-react-76-cns-tap-test-app
 
